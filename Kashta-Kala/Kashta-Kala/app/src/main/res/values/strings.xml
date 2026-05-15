@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Kashta-Kala</string>
+    <string name="tagline">Your Digital Workshop 🪵</string>
+
+    <!-- Bottom Navigation Tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_catalog">Catalog</string>
+    <string name="tab_estimator">Estimator</string>
+    <string name="tab_portfolio">Portfolio</string>
+    <string name="tab_ai_chat">AI Chat</string>
+
+    <!-- Home Screen -->
+    <string name="todays_overview">Dashboard</string>
+    <string name="stat_designs">Designs</string>
+    <string name="stat_favorites">Favorites</string>
+    <string name="stat_quotes">Quotes</string>
+    <string name="stat_portfolio">Portfolio</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="featured_designs">Featured Designs</string>
+    <string name="recent_quotes">Recent Quotes</string>
+
+    <!-- Catalog Screen -->
+    <string name="design_catalog">Design Catalog</string>
+    <string name="browse_designs">Browse modern furniture designs</string>
+    <string name="category_all">All</string>
+    <string name="category_sofa">Sofa</string>
+    <string name="category_bed">Bed</string>
+    <string name="category_cabinet">Cabinet</string>
+    <string name="category_table">Table</string>
+    <string name="category_chair">Chair</string>
+    <string name="favorite">Favorite</string>
+    <string name="estimated_price">Estimated Price</string>
+
+    <!-- Estimator Screen -->
+    <string name="material_estimator">Material Estimator</string>
+    <string name="estimator_subtitle">Calculate wood &amp; generate quotes</string>
+    <string name="furniture_type">Furniture Type</string>
+    <string name="wood_type">Wood Type</string>
+    <string name="dimensions">Dimensions (in feet)</string>
+    <string name="length">Length</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="generate_quote">Generate Price Quote</string>
+    <string name="estimation_result">Estimation Result</string>
+    <string name="area_formula">Area (L × W)</string>
+    <string name="volume_formula">Volume (L × W × H)</string>
+    <string name="wastage">Wastage</string>
+    <string name="wood_required">Wood Required</string>
+    <string name="price_quotation">Price Quotation</string>
+    <string name="material_cost">Material Cost</string>
+    <string name="labor_cost">Labor Cost</string>
+    <string name="total">Total</string>
+
+    <!-- Portfolio Screen -->
+    <string name="my_portfolio">My Portfolio</string>
+    <string name="portfolio_subtitle">Showcase your completed work</string>
+    <string name="add_work">Add Completed Work</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_portfolio">No work added yet</string>
+    <string name="portfolio_encourage">Tap + to showcase your craftsmanship!</string>
+
+    <!-- AI Assistant -->
+    <string name="ai_assistant_title">AI Assistant</string>
+    <string name="ai_subtitle">Powered by Gemini AI</string>
+    <string name="ask_placeholder">Ask about furniture designs…</string>
+    <string name="send">Send</string>
+    <string name="thinking">Thinking…</string>
+</resources>
